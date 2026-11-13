@@ -1,0 +1,19 @@
+{
+  "name": "google-chrome-clone",
+  "version": "1.0.0",
+  "description": "Google Chrome clone built with Chromium and Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "node run.js"
+  },
+  "keywords": [
+    "chrome",
+    "browser",
+    "chromium"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^45.2.1"
+  }
+}
